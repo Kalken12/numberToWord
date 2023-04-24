@@ -1,3 +1,3 @@
 const ConvertNumberToWord = require('./ConvertNumberToWord');
 
-console.log(ConvertNumberToWord(1200.10)); 
+console.log(ConvertNumberToWord(1200)); 
