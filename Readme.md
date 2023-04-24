@@ -27,7 +27,9 @@ Converts a given number to its equivalent word representation in English.
 
 Parameters
 - `num` (number): The number to be converted.
+
 Returns
+
 - (string): The word representation of the given number.
 
 ```javascript
