@@ -1,5 +1,24 @@
 {
+  "name": "numbertoword",
+  "version": "1.0.0",
+  "description": "converts numbers to words in different languages",
+  "main": "index.js",
   "dependencies": {
     "numbertoword": "^1.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Kalken12/numberToWord.git"
+  },
+  "keywords": [
+    "numbertoword",
+    "number to word",
+    "convert numbers to words"
+  ],
+  "author": "kalyani kenekar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kalken12/numberToWord/issues"
+  },
+  "homepage": "https://github.com/Kalken12/numberToWord#readme"
 }
